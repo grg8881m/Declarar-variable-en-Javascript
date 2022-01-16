@@ -1,0 +1,2 @@
+var myName;
+//En informática, los datos son cualquier cosa que tenga sentido para la computadora. JavaScript proporciona ocho tipos de datos diferentes, los cuales son undefined, null, boolean, string, symbol, bigint, number, y object.
